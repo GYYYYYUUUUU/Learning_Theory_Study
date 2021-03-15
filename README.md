@@ -11,7 +11,7 @@ Study
 
 ## Contents
 
-Numbers|Date|Topic|Video|Materials
--------|-------|--------|------|-------
-1|21.03.17||[video]()|notes
+Numbers|Date|Topic|Video|Materials| Speaker
+-------|-------|--------|------|-------|-----
+1|21.03.17||[video]()|notes| Gyusang Cho
 
