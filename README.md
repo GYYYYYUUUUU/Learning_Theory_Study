@@ -13,5 +13,5 @@ Study
 
 Numbers|Date|Topic|Video|Materials| Speaker
 -------|-------|--------|------|-------|-----
-1|21.03.17||[video](https://youtu.be/coIlzNmR19Q)|notes| Gyusang Cho
+1|21.03.17||[video](https://youtu.be/coIlzNmR19Q)|[notes](notes/Lt2021_1_CI.pdf)| Gyusang Cho
 
